@@ -5,7 +5,7 @@
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY",
         "SataPortMap": "4"
-		    "DiskIdxMap": "03"    
+		    "DiskIdxMap": "00"    
         "SasIdxMap": "0"
     },
     "synoinfo": {},
